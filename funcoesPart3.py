@@ -17,7 +17,7 @@ def func(*args, **kwargs):
 
 lista = [1,2,3,4,5]
 lista2= [10,20,30]
-func(*lista, *lista2, nome='Matheus', sobrenome='Lamana', idade='26')
+func(*lista, *lista2, nome='Matheus', sobrenome='Henrique', idade='26')
 
 
 
